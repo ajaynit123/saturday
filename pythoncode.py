@@ -5,4 +5,4 @@ print("Hello, World!")  # Prints a greeting message
 name = input("What's your name? ")
 
 # Greet the user personally
-print(f"very very Nice to meet you, {name}!")
+print(f"very Nice to meet you, {name}!")
